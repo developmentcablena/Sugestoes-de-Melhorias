@@ -1,0 +1,10 @@
+Line 56: Class MSComctlLib.ListView of control lvwChamados was not a loaded control class.
+Line 62: The property name _ExtentX in lvwChamados is invalid.
+Line 63: The property name _ExtentY in lvwChamados is invalid.
+Line 64: The property name View in lvwChamados is invalid.
+Line 65: The property name LabelWrap in lvwChamados is invalid.
+Line 66: The property name HideSelection in lvwChamados is invalid.
+Line 67: The property name FullRowSelect in lvwChamados is invalid.
+Line 68: The property name GridLines in lvwChamados is invalid.
+Line 69: The property name _Version in lvwChamados is invalid.
+Line 83: The property name NumItems in lvwChamados is invalid.

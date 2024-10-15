@@ -1,0 +1,13 @@
+frmPrincipal = 78, 78, 1262, 720, , 52, 52, 1236, 694, 
+frmVisualizarAT = 156, 156, 1370, 737, , 130, 130, 1344, 711, 
+Form1 = 0, 0, 0, 0, C, 182, 182, 1396, 763, 
+frmAcompanharOS = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAlterarSenha = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmChamados = 286, 286, 1567, 867, , 0, 0, 0, 0, C
+frmFinalizarOS = 104, 104, 1318, 685, , 78, 78, 1292, 659, 
+frmLogin = 182, 182, 1396, 763, , 0, 0, 1214, 581, 
+frmSuporteSistemas = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSuporteSistemasV = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmUsuarios = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Geral = 208, 208, 1422, 789, Z
+frmMensagem = 0, 0, 0, 0, C, 0, 0, 0, 0, C
